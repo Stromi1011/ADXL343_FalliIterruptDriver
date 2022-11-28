@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "vmcb_adxl343.h": "c",
+        "stm32l4xx_hal.h": "c",
+        "stdint.h": "c"
+    }
+}
